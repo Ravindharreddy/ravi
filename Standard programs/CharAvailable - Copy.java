@@ -1,4 +1,4 @@
-package com.technoelevate.mock;
+Aspackage com.technoelevate.mock;
 
 import java.util.Scanner;
 
